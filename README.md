@@ -12,12 +12,12 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require "alexgx/yii2-phpexcel" "*"
+php composer.phar require "xyb/yii2-phpexcel" "*"
 ```
 or add
 
 ```json
-"alexgx/yii2-phpexcel" : "*"
+"xyb/yii2-phpexcel" : "*"
 ```
 
 to the require section of your application's `composer.json` file.
@@ -31,7 +31,7 @@ Usage
 -----
 ```
 
-use alexgx\phpexcel;
+use xyb\phpexcel;
 
 ```
 TBD
